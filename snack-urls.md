@@ -5,9 +5,4 @@ Text or Delete (Contacts): https://snack.expo.io/BkS-RIloG
 Map and Location stuff: https://snack.expo.io/ryg2aIesM
 
 Compass and Balloons (Magentometer, DeviceMotion): https://snack.expo.io/S1spaIejM
-
-
-
-
-
-
+https://snack.expo.io/@ccheever/compass
